@@ -1,4 +1,5 @@
 master_1
 BUG2 line here
+LIne here form bug 2
 master_3
 master_4
